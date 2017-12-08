@@ -13,6 +13,9 @@
     ./mypass -e content key //使用key加密content
     ./mypass -d content key //使用key解密content
 ```
+####下载
+
+点击[https://github.com/LibiChai/mypass/releases](下载)各个平台编译好的二进制版本
 
 #### 注意
 
